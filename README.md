@@ -1,12 +1,14 @@
 # team-notes
 
-Mini app de consola en Python para gestionar notas guardadas en `data/notes.json`.
+Este proyecto es una aplicación muy simple en Python que funciona desde la terminal.  
+Sirve para crear, listar, buscar y eliminar notas. Todas las notas se guardan en un archivo `data/notes.json`.
 
 ## Requisitos
-- Python 3.x
+- Tener instalado Python 3 en la computadora.
+- Git para clonar el repositorio.
 
-## Instalación
-Cloná el repo y entrá a la carpeta:
+## Cómo usarlo
+Primero hay que clonar el repositorio:
 ```bash
 git clone https://github.com/patovergaraa/team-notes.git
 cd team-notes
