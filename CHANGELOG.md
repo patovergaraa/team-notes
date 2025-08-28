@@ -1,14 +1,16 @@
 
-# 📄 `CHANGELOG.md`
-```markdown
-# Changelog
-Todos los cambios notables de este proyecto serán documentados aquí.
+---
 
-## [1.0.0] - 2025-08-28
-### Added
-- Comando `add` para crear notas
-- Comando `list` para listar notas
-- Comando `search` para buscar notas
-- Comando `delete` para eliminar notas
-- Pruebas unitarias básicas con pytest
-- Documentación inicial (README.md, CONTRIBUTING.md)
+## 📄 `CHANGELOG.md`
+```markdown
+# Cambios del proyecto
+
+Acá voy anotando las cosas importantes que se agregaron.
+
+## Versión 1.0.0 (28/08/2025)
+- Se agregó el comando `add` para crear notas.
+- Se agregó el comando `list` para listar notas.
+- Se agregó el comando `search` para buscar notas.
+- Se agregó el comando `delete` para borrar notas.
+- Se hicieron pruebas básicas con pytest.
+- Se agregó la documentación inicial (README y CONTRIBUTING).
