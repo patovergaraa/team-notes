@@ -1,6 +1,4 @@
 
----
-
 ## 📄 `CHANGELOG.md`
 ```markdown
 # Cambios del proyecto
@@ -14,3 +12,4 @@ Acá voy anotando las cosas importantes que se agregaron.
 - Se agregó el comando `delete` para borrar notas.
 - Se hicieron pruebas básicas con pytest.
 - Se agregó la documentación inicial (README y CONTRIBUTING).
+
