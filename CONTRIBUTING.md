@@ -21,3 +21,8 @@ Usar prefijos:
 - Se abre PR hacia `develop`.
 - Se requiere al menos 1 review.
 - Merge con **Squash & Merge**.
+
+## Antes de subir cambios
+1. Correr los tests:
+```bash
+python3 -m pytest -q
